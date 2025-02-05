@@ -1,0 +1,18 @@
+{
+    "examples": {
+      "variables": {
+        "a": 10,
+        "user": "Mahesh",
+        "str1": "doublequotes",
+        "str2": "singlequote",
+        "str3": "template literals",
+        "num1": 10,
+        "num2": 10.3456789,
+        "bool1": true,
+        "bool2": false,
+        "nullValue": null,
+        "bigint": 2n
+      }
+    }
+  }
+  
